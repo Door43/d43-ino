@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ino:home|Door43 (ino)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ino|d43-ino repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ino/archive/master.zip|d43-ino.zip]]
+
+**Recent Changes**
+{{changes>ns = ino}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ino|Ethnologue data]]
+
